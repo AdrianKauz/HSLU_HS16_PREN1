@@ -1,1 +1,0 @@
-# Haley "Core": Proof of concept
